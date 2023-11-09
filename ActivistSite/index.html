@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Home</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- the webpage's sources -->
+    <link rel="stylesheet" href="style.css" />
+    <script src="/index.js" defer></script>
+
+    <!-- Google fonts here -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik+Dirt"/>
+  </head>
+  <body>
+    <nav>
+      <ul class="nav-bar">
+        <li class="nav-item"><a href="index.html">Home</a></li>
+        <li class="nav-item"><a href="problem.html">Problem</a></li>
+        <li class="nav-item"><a href="takeaction.html">Take Action</a></li>
+      </ul>
+    </nav>
+
+    <header>
+      <h1>FIGHT CLIMATE CHANGE</h1>
+      <p class="subtitle">There are only 11 more years to prevent irreversible damage from climate change.</p>
+    </header>
+    
+    <main>
+      <div class="slideshow-container">
+        <div class="links fade">
+          <img src="assets/wildfire.jpg" alt="Tree/mountain landscape with wildfire and smoke" style="width:100%">
+          <div class="actionLink"><a class="text" href="https://www.c2es.org/">Center for Climate and Energy Solutions</a></div>
+        </div>
+
+        <div class="links fade">
+          <img src="assets/deforestation.jpg" alt="Landscape with cut down trees on the ground from deforestation" style="width:100%">
+          <div class="actionLink"><a class= "text" href="https://www.nwf.org/Our-Work/Environmental-Threats">National Wildlife Federation</a></div>
+        </div>
+
+        <div class="links fade">
+          <img src="assets/protest.jpg" alt="Photo from protest with center poster that says 'THERE IS NO PLANET B'" style="width:100%">
+          <div class="actionLink"><a class="text" href="https://www.change.org/p/one-dollar-from-each-signer-can-help-save-the-arctic-national-wildlife-refuge-now?source_location=topic_page">Sign this petition.</a></div>
+        </div>
+
+  <!-- Next and previous buttons -->
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+      </div>
+    </main>
+  </body>
+</html>

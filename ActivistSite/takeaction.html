@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Take Action</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- import the webpage's sources -->
+    <link rel="stylesheet" href="style.css" />
+    <script src="/script.js" defer></script>
+
+    <!-- Add your Google fonts here -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik+Dirt"/>
+
+  </head>
+  <body>
+    
+    <nav>
+      <!-- Add the navigation bar here-->
+      <ul class="nav-bar">
+        <li class="nav-item"><a href="index.html">Home</a></li>
+        <li class="nav-item"><a href="problem.html">Problem</a></li>
+        <li class="nav-item"><a href="takeaction.html">Take Action</a></li>
+      </ul>
+    </nav>
+
+    <header>
+      <!--Top section with title and description-->
+      <h1>WHAT CAN <em>YOU</em> DO?</h1>
+    </header>
+    
+    <main>
+      <h3>Call Your Senator</h3>
+		  <p>This bill takes a stance against climate change by building America's clean energy economy. <br>Take action today by calling your Senator to tell them to support the Inflation Reduction Act!</p> <!-- info about bill -->
+      <p>Enter your information below, click the button to generate a personalized script, then call 202-318-1885.</p>
+      <div class="scriptBox">
+        <div class="scriptItem">
+          <label for="yourName">Your name: </label>
+          <input type="text" id="userName">
+        </div>
+
+        <div class="scriptItem">
+          <label for="yourLocation">Your district, county, or city: </label>
+          <input type="text" id="userLocation" >
+        </div>
+
+        <div class="scriptItem">
+          <label for="yourRep"><a href="https://www.house.gov/representatives/find-your-representative">Your representative: </a></label>
+          <input type="text" id="userRep" >
+        </div>
+        
+        <button id="scriptButton">Generate your script</button>
+      </div>
+		  <p id="script"></p>
+      <p>More information and script from  <a href="https://www.call4climate.com">call4climate.com.</a></p>
+      <h2>Quick/Short-term Action Items</h2>
+      <button id="shortActionButton" class="generate">Generate A Random Short-term Action Item</button>
+      <p id="shortActionItem"></p>
+      <h2>Long-term Action Items</h2>
+      <button id="longActionButton" class="generate">Generate A Random Long-term Action Item</button>
+      <p id="longActionItem"></p>
+    </main>
+  </body>
+</html>
