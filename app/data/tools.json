@@ -1,38 +1,38 @@
 [
     {
       "title": "Git",
-      "imageSrc": "skills/git.png"
+      "imageSrc": "app/assets/skills/git.png"
     },
     {
       "title": "React",
-      "imageSrc": "skills/react.png"
+      "imageSrc": "app/assets/skills/react.png"
     },
     {
       "title": "Tailwind CSS",
-      "imageSrc": "skills/tailwindcss.png"
+      "imageSrc": "app/assets/skills/tailwindcss.png"
     },
     {
       "title": "MySQL",
-      "imageSrc": "skills/mysql.png"
+      "imageSrc": "app/assets/skills/mysql.png"
     },
     {
       "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "imageSrc": "app/assets/skills/figma.png"
     },
     {
       "title": "Adobe Creative Suite",
-      "imageSrc": "skills/adobe.png"
+      "imageSrc": "app/assets/skills/adobe.png"
     },
     {
       "title": "Latex",
-      "imageSrc": "skills/latex.svg"
+      "imageSrc": "app/assets/skills/latex.svg"
     },
     {
       "title": "JUnit",
-      "imageSrc": "skills/junit.png"
+      "imageSrc": "app/assets/skills/junit.png"
     },
     {
       "title": "Maya",
-      "imageSrc": "skills/maya.png"
+      "imageSrc": "app/assets/skills/maya.png"
     }
   ]

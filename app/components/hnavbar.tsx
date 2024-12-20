@@ -1,8 +1,7 @@
 import { useLocation, Link } from "@remix-run/react";
 
-export default function Navbar(): React.ReactElement {
+export default function HNavbar(): React.ReactElement {
   const location = useLocation();
-  console.log(location);
   const isActive = (path: string): boolean => location.pathname === path;
 
   return (
@@ -11,10 +10,10 @@ export default function Navbar(): React.ReactElement {
       <div className="flex gap-[47px] text-2xl">
         <div className="flex gap-[47px] text-2xl">
             {[
-            { name: "About", href: "#about" },
-            { name: "Experience", href: "#experience" },
-            { name: "Projects", href: "#projects" },
-            { name: "Contact", href: "#contact" },
+            { name: "About", href: "/#about" },
+            { name: "Experience", href: "/#experience" },
+            { name: "Projects", href: "/#projects" },
+            { name: "Contact", href: "/#contact" },
             ].map((link) => (
             <a
                 key={link.name}
