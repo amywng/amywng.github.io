@@ -1,0 +1,56 @@
+[
+    {
+        "id": "paintings",
+        "name": "Paintings",
+        "image": "/art/yuyuan.jpeg",
+        "pieces": [
+            {
+                "title": "给我",
+                "imageSrc": "art/yuyuan.jpeg"
+            },
+            {
+                "title": "The Monsters Have Changed",
+                "imageSrc": "art/dream.jpeg"
+            },
+            {
+                "title": "Summer",
+                "imageSrc": "art/flowers.jpeg"
+            },
+            {
+                "title": "Most Important Meal",
+                "imageSrc": "art/bfast.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "nature",
+        "name": "Nature",
+        "image": "/art/fish.png",
+        "pieces": [
+            {
+                "title": "Koi Fish Pond",
+                "imageSrc": "art/fish.png"
+            },
+            {
+                "title": "Scale",
+                "imageSrc": "art/arch.jpg"
+            },
+            {
+                "title": "Splash",
+                "imageSrc": "art/waves.jpg"
+            },
+            {
+                "title": "Conditions",
+                "imageSrc": "art/turtle.jpg"
+            },
+            {
+                "title": "Niagara",
+                "imageSrc": "art/niagara.png"
+            },
+            {
+                "title": "Lost",
+                "imageSrc": "art/canyon.png"
+            }
+          ]
+    }
+]

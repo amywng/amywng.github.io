@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Image Processor",
+      "imageSrc": "app/assets/projects/image-processor.png",
+      "description": "Developed an image editor with a multitude of capabilities, including filtering and blur.",
+      "skills": ["Java", "Swing", "MVC"],
+      "source": "https://github.com/amywng/imageprocessor"
+    },
+    {
+      "title": "Ars Electronica Facade",
+      "imageSrc": "app/assets/projects/ars-electronica.webp",
+      "description": "Developed a program to display an animation on the LED panel-based facade of Ars Electronica. ",
+      "skills": ["Processing"],
+      "source": "https://www.github.com/amywng/ars_electronica"
+    },
+    {
+      "title": "Climate Change Site",
+      "imageSrc": "app/assets/projects/climate-change.png",
+      "description": "Developed a website to inform and drive users to take action to combat climate change.",
+      "skills": ["Javascript", "HTML", "CSS"],
+      "source": "https://www.github.com/amywng/activistsite"
+    }
+  ]

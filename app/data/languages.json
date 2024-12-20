@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.webp"
+    },
+    {
+      "title": "TypeScript",
+      "imageSrc": "skills/typescript.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.svg"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "Racket",
+      "imageSrc": "skills/racket.svg"
+    }
+  ]

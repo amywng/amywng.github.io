@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Lanterns",
+        "imageSrc": "art/lanterns.jpg"
+    },
+    {
+        "title": "",
+        "imageSrc": "art/whale.jpg"
+    },
+    {
+        "title": "Road Trip",
+        "imageSrc": "art/car.jpg"
+    },
+    {
+        "title": "Whiteboard",
+        "imageSrc": "art/whaleshark.jpg"
+    },
+    {
+        "title": "Camping",
+        "imageSrc": "art/fire.jpg"
+    }
+  ]

@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Tailwind CSS",
+      "imageSrc": "skills/tailwindcss.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "Adobe Creative Suite",
+      "imageSrc": "skills/adobe.png"
+    },
+    {
+      "title": "Latex",
+      "imageSrc": "skills/latex.svg"
+    },
+    {
+      "title": "JUnit",
+      "imageSrc": "skills/junit.png"
+    },
+    {
+      "title": "Maya",
+      "imageSrc": "skills/maya.png"
+    }
+  ]
