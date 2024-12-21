@@ -137,7 +137,7 @@
     {
         "id": "b&w",
         "name": "B&W",
-        "image": "app/assets/art/print.jpeg",
+        "image": "app/assets/art/print_crop.jpeg",
         "pieces": [
             {
                 "title": "10,000-hour rule",
@@ -241,11 +241,15 @@
         "pieces": [
             {
                 "title": "Ball Bounces",
-                "imageSrc": "app/assets/art/ball.png"
+                "imageSrc": "app/assets/art/balls.mp4"
             },
             {
                 "title": "Flour Sack",
-                "imageSrc": "app/assets/art/floursack.png"
+                "imageSrc": "app/assets/art/floursack.mp4"
+            },
+            {
+                "title": "Talent Show",
+                "imageSrc": "app/assets/art/talentshow.mp4"
             }
           ]
     }

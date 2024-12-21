@@ -15,7 +15,7 @@ export const meta: MetaFunction<typeof loader> = ({
   const { categoryName } = data as {categoryName: string};
   return [
     { title: `${categoryName}` },
-    { name: "description", content: `Pieces of mine in category ${categoryName}` },
+    { name: "description", content: `Artworks of mine related to ${categoryName}` },
   ];
 };
 
@@ -29,13 +29,22 @@ export default function ArtCategory() {
   return (
     <div>
         <CatNavbar />
-        {pieces.map((piece) => (
-          <img
-            src={piece.imageSrc}
-            alt={piece.title}
-            className="w-[100px]"
-          />
-        ))}
+        <div className="pt-36 pl-72">
+          <div className="gallery flex gap-5 overflow-x-auto">
+            {categoryId!="animated" && pieces.map((piece, index) => (
+              <img
+                src={piece.imageSrc}
+                alt={piece.title}
+                className={`w-auto h-[500px] ${index === pieces.length - 1 ? 'mr-16' : ''}`}
+              />
+            ))}
+            {categoryId==="animated" && pieces.map((piece, index) => (
+              <video className={`w-auto h-[500px] ${index === pieces.length - 1 ? 'mr-16' : ''}`} controls>
+                <source src={piece.imageSrc} type="video/mp4"/>This browser doesn't support the video tag.
+              </video>
+            ))}
+          </div>
+        </div>
     </div>
   )
 }

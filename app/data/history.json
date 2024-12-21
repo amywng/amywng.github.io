@@ -2,13 +2,12 @@
     {
       "role": "Teaching Assistant",
       "organisation": "Khoury College of Computer Sciences",
-      "startDate": "Sept 2024",
+      "startDate": "Sep 2024",
       "endDate": "Present",
       "experiences": [
-        "Directed a lab of 30 students", 
-        "Graded exams and homework", 
-        "Provided additional one-one-one tutoring to students in need", 
-        "Conducted office hours to reinforce course concepts"
+        "Provided additional one-on-one tutoring to students in need", 
+        "Facilitated weekly labs and conducted office hours to reinforce course concepts", 
+        "Graded homework assignments, proctored & evaluated exams"
       ],
       "imageSrc": "app/assets/history/khoury_college_logo.jpeg"
     },
@@ -18,9 +17,8 @@
       "startDate": "Sep 2024",
       "endDate": "Present",
       "experiences": [
-        "Improved user experience of club website", 
-        "Collaborated with a team to implement new features using React and Tailwind CSS", 
-        "Managed version control and code updates through Git to streamline development"
+        "Built the Code4Community website using TypeScript, Tailwind CSS, and Prismic CMS integration", 
+        "Followed Agile/SCRUM methodology, utilizing weekly sprints and stand-up meetings"
       ],
       "imageSrc": "app/assets/history/code_4_community_logo.jpeg"
     },
@@ -31,8 +29,8 @@
       "endDate": "Present",
       "experiences": [
         "Coordinated logistics for keynote speakers and workshop leaders",
-        "Planned and facilitated club bonding activiites to strenthen team dynamics",
-        "Contacted and organized food vendors"
+        "Planned and led club bonding activiites to strenthen team dynamics",
+        "Contacted and organized food vendors for event of 200+ people"
       ],
       "imageSrc": "app/assets/history/hackbeanpot_inc_logo.jpeg"
     }

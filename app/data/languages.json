@@ -16,8 +16,12 @@
       "imageSrc": "app/assets/skills/typescript.png"
     },
     {
-      "title": "SQL",
-      "imageSrc": "app/assets/skills/sql.svg"
+      "title": "Ruby",
+      "imageSrc": "app/assets/skills/ruby.png"
+    },
+    {
+      "title": "Racket",
+      "imageSrc": "app/assets/skills/racket.svg"
     },
     {
       "title": "HTML",
@@ -26,9 +30,5 @@
     {
       "title": "CSS",
       "imageSrc": "app/assets/skills/css.png"
-    },
-    {
-      "title": "Racket",
-      "imageSrc": "app/assets/skills/racket.svg"
     }
   ]

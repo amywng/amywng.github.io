@@ -1,11 +1,11 @@
 import type { MetaFunction } from "@remix-run/node";
-import { Gallery } from "~/components/art-page/gallery";
+import { Gallery } from "~/components/gallery";
 import VNavbar from "~/components/vnavbar";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "Amy Wang" },
-    { name: "description", content: "Welcome to my portfolio!" },
+    { title: "Art" },
+    { name: "description", content: "A collection of my artwork" },
   ];
 };
 
