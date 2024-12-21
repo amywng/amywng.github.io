@@ -6,21 +6,20 @@ const About = () => {
                 <img
                     src="app/assets/about/aboutImage.png"
                     alt="Me sitting with a laptop"
-                    className="w-96 mt-3"
+                    className="w-80 mt-12"
                 />
-                <p className="text-xl font-semibold text-blue tracking-wide">Hi! Hallo! 你好！My name is Amy, and I’m currently 
+                <p className="text-xl text-purple tracking-wide">Hi! Hallo! 你好！My name is Amy, and I’m currently 
                     studying Computer Science and Media Arts at Northeastern University. 
-                    When I’m not coding or spending copious amounts of time in the Ryder 
-                    animation lab, you can find me reading (trying to get through my ever 
-                    growing Notes app list), practicing my Chinese characters or German 
-                    Duolingo exercises, or running by the Charles River Esplanade.<br/><br/>
+                    I’m a prolific music listener, visual artist, nature lover, and frequent 
+                    rater on Beli, Letterboxd, Strava, and Goodreads. 
+                    <br/><br/>
 
-                    Since high school, I have been passionate about exploring the intersection 
-                    of computer science and art. My goal is to discover how digital tools can 
-                    foster more intuitive and meaningful interactions within these disciplines. 
-                    As I continue to grow in these 
-                    fields, I hope to create solutions that not only perform efficiently but also 
-                    engage users in thoughtful and impactful ways. Feel free to reach out!</p>
+                    As an avid reader, I am passionate about hearing the stories of others.
+                    In a post-digital age, it is
+                    imperative to remember that technology is and has always been a response to
+                    human stories, human problems. As I gain experience, both personal and professional, 
+                    I look forward to creating solutions that not only perform efficiently but also 
+                    remember the humanity behind the problems we need to solve. Feel free to reach out!</p>
             </div>
         </div>
     );

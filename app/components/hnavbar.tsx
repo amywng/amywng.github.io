@@ -6,7 +6,7 @@ export default function HNavbar(): React.ReactElement {
 
   return (
     <nav className="relative flex items-center justify-between pt-16 mx-[10%] z-20 text-purple">
-      <Link to="/" className="text-3xl font-semibold no-underline hover:text-dark_purple">Amy Wang</Link>
+      <Link to="/" className="text-3xl font-medium no-underline hover:text-dark_purple">Amy Wang</Link>
       <div className="flex gap-[47px]">
         <div className="flex gap-[47px]">
             {[

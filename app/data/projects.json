@@ -16,7 +16,7 @@
     {
       "title": "Ars Electronica Facade",
       "imageSrc": "app/assets/projects/ars-electronica.webp",
-      "description": "Developed a program to display an ongoing animation on the LED panel-based facade of Ars Electronica in Linz, Austria. ",
+      "description": "Developed a program to display an ongoing animation on the LED panel-based facade of Ars Electronica.",
       "skills": ["Processing"],
       "source": "https://www.github.com/amywng/ars_electronica"
     },

@@ -240,16 +240,16 @@
         "image": "app/assets/art/floursack.png",
         "pieces": [
             {
-                "title": "Ball Bounces",
-                "imageSrc": "app/assets/art/balls.mp4"
+                "title": "Talent Show",
+                "imageSrc": "app/assets/art/talentshow.mp4"
             },
             {
                 "title": "Flour Sack",
                 "imageSrc": "app/assets/art/floursack.mp4"
             },
             {
-                "title": "Talent Show",
-                "imageSrc": "app/assets/art/talentshow.mp4"
+                "title": "Ball Bounces",
+                "imageSrc": "app/assets/art/balls.mp4"
             }
           ]
     }

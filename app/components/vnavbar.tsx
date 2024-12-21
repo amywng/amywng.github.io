@@ -10,22 +10,24 @@ export default function VNavbar(): React.ReactElement {
       <div className="flex flex-col">
         <Link to="/" className="text-3xl font-semibold text-black mb-6 hover:text-[#3a3987]">Amy Wang</Link>
         <div className="flex flex-col">
-            {[
-            { name: "Home", href: "/" },
-            { name: "Art", href: "/art" },
-            ].map((link) => (
             <Link
-                key={link.name}
-                to={link.href}
+                key="Home"
+                to={"/"}
                 className={` text-2xl hover:text-[#3a3987] ${
-                isActive(link.href) ? "text-purple" : "text-black"
+                isActive("/") ? "text-purple" : "text-black"
                 }`}
             >
-                {link.name}
+                Home
             </Link>
-            ))}
-            <a href="mailto:acwng2@gmail.com"
-            className="text-2xl hover:text-[#3a3987]">Contact</a>
+            <Link
+                key="Art"
+                to={"/art"}
+                className={` text-2xl hover:text-[#3a3987] mb-6 ${
+                isActive("/art") ? "text-purple" : "text-black"
+                }`}
+            >
+                Art
+            </Link>
         </div>
       </div>
     </nav>

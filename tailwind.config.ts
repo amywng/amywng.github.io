@@ -6,11 +6,11 @@ export default {
     extend: {
       colors: {
         purple: '#7371FC',
-        blue: '#5ABAFA',
+        blue: '#51A7E1',
         green: '#55AD80',
         lime: '#89DD6A',
         dark_purple: '#6361db',
-        light_lime: '#96e17b'
+        dark_green: '#3b7a5a'
       },
       fontFamily: {
         sans: [
@@ -34,6 +34,9 @@ export default {
       animation: {
         float: 'float 3s ease-in-out infinite',
       },
+      backgroundImage: {
+        'bullet': 'url(app/assets/history/Bullet.png)'
+      }
     },
   },
   plugins: [],
