@@ -56,7 +56,7 @@
     {
         "id": "fruits",
         "name": "Fruits",
-        "image": "/art/berries.png",
+        "image": "/art/berries2.png",
         "pieces": [
             {
                 "title": "Haul",
@@ -80,7 +80,7 @@
             },
             {
                 "title": "",
-                "imageSrc": "/art/berries.png"
+                "imageSrc": "/art/berries2.png"
             }
           ]
     },
