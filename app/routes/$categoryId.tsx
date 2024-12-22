@@ -4,13 +4,13 @@ import categories from "app/data/categories.json"
 import type { LoaderFunction } from "@remix-run/node";
 import VNavbar from "~/components/vnavbar";
 
-export const loader: LoaderFunction = async ({ params }) => {
+export const clientLoader: LoaderFunction = async ({ params }) => {
     const categoryId = params.categoryId;
     const category = categories.find((cat) => cat.id === categoryId)
     return { categoryId, categoryName: category?.name, pieces: category?.pieces };
 }
 
-export const meta: MetaFunction<typeof loader> = ({
+export const meta: MetaFunction<typeof clientLoader> = ({
   data,
 }) => {
   const { categoryName } = data as {categoryName: string};
