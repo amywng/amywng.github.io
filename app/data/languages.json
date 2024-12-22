@@ -1,34 +1,34 @@
 [
     {
       "title": "Java",
-      "imageSrc": "app/assets/skills/java.png"
+      "imageSrc": "/skills/java.png"
     },
     {
       "title": "Python",
-      "imageSrc": "app/assets/skills/python.png"
+      "imageSrc": "/skills/python.png"
     },
     {
       "title": "JavaScript",
-      "imageSrc": "app/assets/skills/javascript.webp"
+      "imageSrc": "/skills/javascript.webp"
     },
     {
       "title": "TypeScript",
-      "imageSrc": "app/assets/skills/typescript.png"
+      "imageSrc": "/skills/typescript.png"
     },
     {
       "title": "Ruby",
-      "imageSrc": "app/assets/skills/ruby.png"
+      "imageSrc": "/skills/ruby.png"
     },
     {
       "title": "Racket",
-      "imageSrc": "app/assets/skills/racket.svg"
+      "imageSrc": "/skills/racket.svg"
     },
     {
       "title": "HTML",
-      "imageSrc": "app/assets/skills/html.png"
+      "imageSrc": "/skills/html.png"
     },
     {
       "title": "CSS",
-      "imageSrc": "app/assets/skills/css.png"
+      "imageSrc": "/skills/css.png"
     }
   ]

@@ -14,12 +14,12 @@ export default function VNavbar(): React.ReactElement {
         <Link to="/" className="text-2xl md:text-3xl font-medium text-black mb-6 hover:text-[#3a3987]">Amy Wang</Link>
         <div className="md:hidden">
           <button onClick={() => setIsOpen(!isOpen)}>
-            <img src="app/assets/nav/menuIconB.png" 
+            <img src="/nav/menuIconB.png" 
             className={`w-6 h-6 mr-6 ${isOpen ? "hidden" : "block"}
             absolute top-[68px] -right-5`}/>
           </button>
           <button onClick={() => setIsOpen(!isOpen)}>
-            <img src="app/assets/nav/closeIconB.png" 
+            <img src="/nav/closeIconB.png" 
             className={`w-6 h-6 mr-6 ${isOpen ? "block" : "hidden"}
             absolute top-[68px] -right-5`}/>
           </button>

@@ -1,28 +1,28 @@
 [
     {
       "title": "CoLink",
-      "imageSrc": "app/assets/projects/colink.png",
+      "imageSrc": "/projects/colink.png",
       "description": "Built a data-driven application to foster community among Northeastern co-op students.",
       "skills": ["Flask", "Streamlit", "MySQL"],
       "source": "https://github.com/amywng/CoLink"
     }, 
     {
       "title": "Image Processor",
-      "imageSrc": "app/assets/projects/image-processor.png",
+      "imageSrc": "/projects/image-processor.png",
       "description": "Developed an image editor using the MVC model, enabling features such as filtering, blurring, and flipping.",
       "skills": ["Java", "Swing", "MVC"],
       "source": "https://github.com/amywng/imageprocessor"
     },
     {
       "title": "Ars Electronica Facade",
-      "imageSrc": "app/assets/projects/ars-electronica.webp",
+      "imageSrc": "/projects/ars-electronica.webp",
       "description": "Developed a program to display an ongoing animation on the LED panel-based facade of Ars Electronica.",
       "skills": ["Processing"],
       "source": "https://www.github.com/amywng/ars_electronica"
     },
     {
       "title": "Climate Change Website",
-      "imageSrc": "app/assets/projects/climate-change.png",
+      "imageSrc": "/projects/climate-change.png",
       "description": "Developed a website to inform and drive users to take action to combat climate change.",
       "skills": ["JavaScript", "HTML", "CSS"],
       "source": "https://www.github.com/amywng/activistsite"

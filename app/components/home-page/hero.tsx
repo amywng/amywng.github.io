@@ -16,7 +16,7 @@ const Hero = () => {
             </div>
             <div className="flex justify-center my-8 md:my-0 md:flex-none z-10">
                 <img
-                    src="app/assets/hero/heroImage.png"
+                    src="/hero/heroImage.png"
                     alt="Cartoon version"
                     className="w-2/3 md:w-[500px] animate-float"
                 />

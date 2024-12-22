@@ -9,7 +9,7 @@
         "Facilitated weekly labs and conducted office hours to reinforce course concepts", 
         "Graded homework assignments, proctored & evaluated exams"
       ],
-      "imageSrc": "app/assets/history/khoury_college_logo.jpeg"
+      "imageSrc": "/history/khoury_college_logo.jpeg"
     },
     {
       "role": "Software Developer",
@@ -20,7 +20,7 @@
         "Built the Code4Community website using TypeScript, Tailwind CSS, and Prismic CMS integration", 
         "Followed Agile/SCRUM methodology, utilizing weekly sprints and stand-up meetings"
       ],
-      "imageSrc": "app/assets/history/code_4_community_logo.jpeg"
+      "imageSrc": "/history/code_4_community_logo.jpeg"
     },
     {
       "role": "Operations Team Member",
@@ -32,6 +32,6 @@
         "Planned and led club bonding activiites to strenthen team dynamics",
         "Contacted and organized food vendors for event of 200+ people"
       ],
-      "imageSrc": "app/assets/history/hackbeanpot_inc_logo.jpeg"
+      "imageSrc": "/history/hackbeanpot_inc_logo.jpeg"
     }
   ]

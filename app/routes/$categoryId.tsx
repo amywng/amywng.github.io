@@ -56,13 +56,13 @@ export default function ArtCategory() {
           </div>
           <div className="absolute top-[90%] left-8 flex items-center md:hidden gap-x-1">
             <h2>Swipe</h2>
-            <img src="app/assets/nav/ArrowRight.png" 
+            <img src="/nav/ArrowRight.png" 
             alt="right arrow"
             className="w-4 h-4"/>
           </div>
           <div className="hidden md:relative mt-5 md:flex items-center gap-x-1">
             <h2>Scroll</h2>
-            <img src="app/assets/nav/ArrowRight.png" 
+            <img src="/nav/ArrowRight.png" 
             alt="right arrow"
             className="w-4 h-4"/>
           </div>

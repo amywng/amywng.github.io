@@ -38,7 +38,7 @@ const ProjectCard = ({
                 <div className="w-3/5 mt-3 flex justify-around bg-[#baeba8] hover:bg-[#94e078] rounded-[100px] py-0.5 md:py-1">
                     <a href={source} target="_blank" className="no-underline text-lg md:text-xl font-medium flex justify-center items-center gap-1">
                         Source
-                        <img src="app/assets/projects/Newscreen.png" className="w-4 h-4"/></a>
+                        <img src="/projects/Newscreen.png" className="w-4 h-4"/></a>
                 </div>
             </div>
             

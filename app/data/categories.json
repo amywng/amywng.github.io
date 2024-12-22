@@ -2,254 +2,254 @@
     {
         "id": "paintings",
         "name": "Paintings",
-        "image": "app/assets/art/yuyuan.jpeg",
+        "image": "/art/yuyuan.jpeg",
         "pieces": [
             {
                 "title": "给我",
-                "imageSrc": "app/assets/art/yuyuan.jpeg"
+                "imageSrc": "/art/yuyuan.jpeg"
             },
             {
                 "title": "The Monsters Have Changed",
-                "imageSrc": "app/assets/art/dream.jpeg"
+                "imageSrc": "/art/dream.jpeg"
             },
             {
                 "title": "Summer",
-                "imageSrc": "app/assets/art/flowers.jpeg"
+                "imageSrc": "/art/flowers.jpeg"
             },
             {
                 "title": "Most Important Meal",
-                "imageSrc": "app/assets/art/bfast.jpeg"
+                "imageSrc": "/art/bfast.jpeg"
             }
         ]
     },
     {
         "id": "nature",
         "name": "Nature",
-        "image": "app/assets/art/fish.png",
+        "image": "/art/fish.png",
         "pieces": [
             {
                 "title": "Koi Fish Pond",
-                "imageSrc": "app/assets/art/fish.png"
+                "imageSrc": "/art/fish.png"
             },
             {
                 "title": "Scale",
-                "imageSrc": "app/assets/art/arch.jpg"
+                "imageSrc": "/art/arch.jpg"
             },
             {
                 "title": "Splash",
-                "imageSrc": "app/assets/art/waves.jpg"
+                "imageSrc": "/art/waves.jpg"
             },
             {
                 "title": "Conditions",
-                "imageSrc": "app/assets/art/turtle.jpg"
+                "imageSrc": "/art/turtle.jpg"
             },
             {
                 "title": "Niagara",
-                "imageSrc": "app/assets/art/niagara.png"
+                "imageSrc": "/art/niagara.png"
             },
             {
                 "title": "Lost",
-                "imageSrc": "app/assets/art/canyon.png"
+                "imageSrc": "/art/canyon.png"
             }
           ]
     },
     {
         "id": "fruits",
         "name": "Fruits",
-        "image": "app/assets/art/berries.PNG",
+        "image": "/art/berries.PNG",
         "pieces": [
             {
                 "title": "Haul",
-                "imageSrc": "app/assets/art/apples.jpg"
+                "imageSrc": "/art/apples.jpg"
             },
             {
                 "title": "Love",
-                "imageSrc": "app/assets/art/grapefruit.jpg"
+                "imageSrc": "/art/grapefruit.jpg"
             },
             {
                 "title": "Complementary",
-                "imageSrc": "app/assets/art/oranges.jpg"
+                "imageSrc": "/art/oranges.jpg"
             },
             {
                 "title": "",
-                "imageSrc": "app/assets/art/papaya.jpg"
+                "imageSrc": "/art/papaya.jpg"
             },
             {
                 "title": "",
-                "imageSrc": "app/assets/art/peaches.jpg"
+                "imageSrc": "/art/peaches.jpg"
             },
             {
                 "title": "",
-                "imageSrc": "app/assets/art/berries.PNG"
+                "imageSrc": "/art/berries.PNG"
             }
           ]
     },
     {
         "id": "sky",
         "name": "Sky",
-        "image": "app/assets/art/hotairballoon.jpg",
+        "image": "/art/hotairballoon.jpg",
         "pieces": [
             {
                 "title": "x2",
-                "imageSrc": "app/assets/art/rainbow.jpg"
+                "imageSrc": "/art/rainbow.jpg"
             },
             {
                 "title": "Manmade",
-                "imageSrc": "app/assets/art/hotairballoon.jpg"
+                "imageSrc": "/art/hotairballoon.jpg"
             },
             {
                 "title": "Dawn from above",
-                "imageSrc": "app/assets/art/plane.jpg"
+                "imageSrc": "/art/plane.jpg"
             },
             {
                 "title": "Seattle",
-                "imageSrc": "app/assets/art/seattle.jpg"
+                "imageSrc": "/art/seattle.jpg"
             }
           ]
     },
     {
         "id": "flora",
         "name": "Flora",
-        "image": "app/assets/art/dandelion.jpeg",
+        "image": "/art/dandelion.jpeg",
         "pieces": [
             {
                 "title": "On the way to a wish",
-                "imageSrc": "app/assets/art/dandelion.jpeg"
+                "imageSrc": "/art/dandelion.jpeg"
             },
             {
                 "title": "Sage",
-                "imageSrc": "app/assets/art/leaf.jpeg"
+                "imageSrc": "/art/leaf.jpeg"
             },
             {
                 "title": "Groovy",
-                "imageSrc": "app/assets/art/plant.jpeg"
+                "imageSrc": "/art/plant.jpeg"
             },
             {
                 "title": "On Edge",
-                "imageSrc": "app/assets/art/kitchen.png"
+                "imageSrc": "/art/kitchen.png"
             },
             {
                 "title": "40 in a 25",
-                "imageSrc": "app/assets/art/driveby.png"
+                "imageSrc": "/art/driveby.png"
             }
           ]
     },
     {
         "id": "b&w",
         "name": "B&W",
-        "image": "app/assets/art/print_crop.jpeg",
+        "image": "/art/print_crop.jpeg",
         "pieces": [
             {
                 "title": "10,000-hour rule",
-                "imageSrc": "app/assets/art/piano.jpg"
+                "imageSrc": "/art/piano.jpg"
             },
             {
                 "title": "Reflection",
-                "imageSrc": "app/assets/art/duck.jpeg"
+                "imageSrc": "/art/duck.jpeg"
             },
             {
                 "title": "Foundation",
-                "imageSrc": "app/assets/art/print.jpeg"
+                "imageSrc": "/art/print.jpeg"
             },
             {
                 "title": "",
-                "imageSrc": "app/assets/art/window.jpeg"
+                "imageSrc": "/art/window.jpeg"
             },
             {
                 "title": "Cutout",
-                "imageSrc": "app/assets/art/cutout.jpg"
+                "imageSrc": "/art/cutout.jpg"
             }
           ]
     },
     {
         "id": "eats",
         "name": "Eats",
-        "image": "app/assets/art/dumplings.jpg",
+        "image": "/art/dumplings.jpg",
         "pieces": [
             {
                 "title": "Marie Bette",
-                "imageSrc": "app/assets/art/croissant.jpg"
+                "imageSrc": "/art/croissant.jpg"
             },
             {
                 "title": "Christian's",
-                "imageSrc": "app/assets/art/pizza.PNG"
+                "imageSrc": "/art/pizza.PNG"
             },
             {
                 "title": "Bodo's",
-                "imageSrc": "app/assets/art/bagels.jpg"
+                "imageSrc": "/art/bagels.jpg"
             },
             {
                 "title": "Marco and Luca",
-                "imageSrc": "app/assets/art/dumplings.jpg"
+                "imageSrc": "/art/dumplings.jpg"
             }
           ]
     },
     {
         "id": "luminous",
         "name": "Luminous",
-        "image": "app/assets/art/fire.jpg",
+        "image": "/art/fire.jpg",
         "pieces": [
             {
                 "title": "Lanterns",
-                "imageSrc": "app/assets/art/lanterns.jpg"
+                "imageSrc": "/art/lanterns.jpg"
             },
             {
                 "title": "",
-                "imageSrc": "app/assets/art/whale.jpg"
+                "imageSrc": "/art/whale.jpg"
             },
             {
                 "title": "Road Trip",
-                "imageSrc": "app/assets/art/car.jpg"
+                "imageSrc": "/art/car.jpg"
             },
             {
                 "title": "Whiteboard",
-                "imageSrc": "app/assets/art/whaleshark.jpg"
+                "imageSrc": "/art/whaleshark.jpg"
             },
             {
                 "title": "Camping",
-                "imageSrc": "app/assets/art/fire.jpg"
+                "imageSrc": "/art/fire.jpg"
             }
           ]
     },
     {
         "id": "studies",
         "name": "Studies",
-        "image": "app/assets/art/still.JPG",
+        "image": "/art/still.JPG",
         "pieces": [
             {
                 "title": "Still Life",
-                "imageSrc": "app/assets/art/still.JPG"
+                "imageSrc": "/art/still.JPG"
             },
             {
                 "title": "Pears",
-                "imageSrc": "app/assets/art/pears.jpeg"
+                "imageSrc": "/art/pears.jpeg"
             },
             {
                 "title": "Cezanne Copy",
-                "imageSrc": "app/assets/art/cezanne.JPG"
+                "imageSrc": "/art/cezanne.JPG"
             },
             {
                 "title": "Candy Still Life WIP",
-                "imageSrc": "app/assets/art/sourpatch.jpeg"
+                "imageSrc": "/art/sourpatch.jpeg"
             }
           ]
     },
     {
         "id": "animated",
         "name": "Animated",
-        "image": "app/assets/art/floursack.png",
+        "image": "/art/floursack.png",
         "pieces": [
             {
                 "title": "Talent Show",
-                "imageSrc": "app/assets/art/talentshow.mp4"
+                "imageSrc": "/art/talentshow.mp4"
             },
             {
                 "title": "Flour Sack",
-                "imageSrc": "app/assets/art/floursack.mp4"
+                "imageSrc": "/art/floursack.mp4"
             },
             {
                 "title": "Ball Bounces",
-                "imageSrc": "app/assets/art/balls.mp4"
+                "imageSrc": "/art/balls.mp4"
             }
           ]
     }

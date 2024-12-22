@@ -1,50 +1,50 @@
 [
     {
       "title": "Git",
-      "imageSrc": "app/assets/skills/git.png"
+      "imageSrc": "/skills/git.png"
     },
     {
       "title": "React",
-      "imageSrc": "app/assets/skills/react.png"
+      "imageSrc": "/skills/react.png"
     },
     {
       "title": "Tailwind CSS",
-      "imageSrc": "app/assets/skills/tailwindcss.png"
+      "imageSrc": "/skills/tailwindcss.png"
     },
     {
       "title": "Figma",
-      "imageSrc": "app/assets/skills/figma.png"
+      "imageSrc": "/skills/figma.png"
     },
     {
       "title": "Adobe Suite",
-      "imageSrc": "app/assets/skills/adobe.png"
+      "imageSrc": "/skills/adobe.png"
     },
     {
       "title": "Maya",
-      "imageSrc": "app/assets/skills/maya.png"
+      "imageSrc": "/skills/maya.png"
     },
     {
       "title": "Rails",
-      "imageSrc": "app/assets/skills/rails.png"
+      "imageSrc": "/skills/rails.png"
     },
     {
       "title": "Docker",
-      "imageSrc": "app/assets/skills/docker.webp"
+      "imageSrc": "/skills/docker.webp"
     },
     {
       "title": "Flask",
-      "imageSrc": "app/assets/skills/flask.png"
+      "imageSrc": "/skills/flask.png"
     },
     {
       "title": "SQL",
-      "imageSrc": "app/assets/skills/sql.svg"
+      "imageSrc": "/skills/sql.svg"
     },
     {
       "title": "MySQL",
-      "imageSrc": "app/assets/skills/mysql.png"
+      "imageSrc": "/skills/mysql.png"
     },
     {
       "title": "Prismic",
-      "imageSrc": "app/assets/skills/prismic.svg"
+      "imageSrc": "/skills/prismic.svg"
     }
   ]

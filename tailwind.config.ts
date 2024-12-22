@@ -35,7 +35,7 @@ export default {
         float: 'float 3s ease-in-out infinite',
       },
       backgroundImage: {
-        'bullet': 'url(app/assets/history/Bullet.png)'
+        'bullet': 'url(/history/Bullet.png)'
       }
     },
   },

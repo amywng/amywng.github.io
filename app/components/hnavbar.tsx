@@ -9,12 +9,12 @@ export default function HNavbar(): React.ReactElement {
       <Link to="/" className="text-2xl md:text-3xl font-medium no-underline hover:text-dark_purple">Amy Wang</Link>
       <div className="md:hidden">
           <button onClick={() => setIsOpen(!isOpen)}>
-            <img src="app/assets/nav/menuIconP.png" 
+            <img src="/nav/menuIconP.png" 
             className={`w-6 h-6 mr-6 ${isOpen ? "hidden" : "block"}
             absolute top-[68px] -right-5`}/>
           </button>
           <button onClick={() => setIsOpen(!isOpen)}>
-            <img src="app/assets/nav/closeIconP.png" 
+            <img src="/nav/closeIconP.png" 
             className={`w-6 h-6 mr-6 ${isOpen ? "block" : "hidden"}
             absolute top-[68px] -right-5`}/>
           </button>

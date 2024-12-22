@@ -4,7 +4,7 @@ const About = () => {
             <h2 className="text-2xl md:text-4xl font-bold tracking-wider md:tracking-[1.75px] uppercase text-purple">About</h2>
             <div className="flex flex-col md:flex-row items-center -mt-12 md:mt-0">
                 <img
-                    src="app/assets/about/aboutImage.png"
+                    src="/about/aboutImage.png"
                     alt="Me sitting with a laptop"
                     className="ml-4 md:ml-0 w-16 md:w-80 md:mt-12"
                 />
