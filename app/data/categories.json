@@ -55,7 +55,7 @@
     },
     {
         "id": "fruits",
-        "name": "Fruits of Labor",
+        "name": "Fruits",
         "image": "app/assets/art/berries.PNG",
         "pieces": [
             {
