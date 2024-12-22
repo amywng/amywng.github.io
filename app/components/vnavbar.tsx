@@ -28,7 +28,7 @@ export default function VNavbar(): React.ReactElement {
             isOpen ? "block" : "scale-y-0 md:flex md:scale-100"}
             relative flex flex-col text-right transition-all duration-300`}>
           <div className="absolute md:static flex flex-col gap-2 md:gap-0 md:text-start
-            -top-3 left-72 overflow-hidden md:overflow-auto">
+            -top-3 left-64 overflow-hidden md:overflow-auto">
               <Link
                   key="Home"
                   to={"/"}
