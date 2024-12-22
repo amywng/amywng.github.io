@@ -11,7 +11,7 @@ export default function CatNavbar(): React.ReactElement {
   return (
     <nav className="relative px-8 shrink-0 grid grid-cols-5 gap-x-3 
     gap-y-4 md:gap-0 md:items-start text-center
-    md:flex md:flex-col mt-24 md:fixed md:mx-7 md:pl-14 md:mt-[300px]">
+    md:flex md:flex-col mt-16 md:fixed md:mx-7 md:pl-14 md:mt-[300px]">
       {
         categories.map((cat) => (
           <Link

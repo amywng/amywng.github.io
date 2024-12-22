@@ -1,7 +1,7 @@
 const Hero = () => {
     return (
         <div className="relative flex flex-col-reverse md:flex-row items-center justify-center 
-        md:justify-between md:mt-12 z-10 mx-[10%] h-[70vh]">
+        md:justify-between mt-4 md:mt-12 z-10 mx-[10%] h-[70vh]">
             <div className="flex flex-col items-center text-center md:text-left md:items-start text-[#7371FC] z-10 md:pr-20">
                 <h1 className="text-5xl md:text-7xl font-semibold mb-6 md:mb-8">Hi, I’m Amy</h1>
                 <p className="text-xl md:text-[28px] mb-8 md:mb-12 leading-8 md:leading-10 font-light">

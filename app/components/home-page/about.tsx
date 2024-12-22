@@ -1,6 +1,6 @@
 const About = () => {
     return (
-        <div className="relative bg-[#cdc1ff]/[.6] rounded-[15px] p-8 md:p-16 mt-16 md:mt-32 z-10 mx-[10%]" id="about">
+        <div className="relative bg-[#cdc1ff]/[.6] rounded-[15px] p-8 md:p-16 mt-20 md:mt-32 z-10 mx-[10%]" id="about">
             <h2 className="text-2xl md:text-4xl font-bold tracking-wider md:tracking-[1.75px] uppercase text-purple">About</h2>
             <div className="flex flex-col md:flex-row items-center -mt-12 md:mt-0">
                 <img

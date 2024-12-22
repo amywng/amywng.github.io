@@ -54,7 +54,7 @@ export default function ArtCategory() {
               </div>
             ))}
           </div>
-          <div className="absolute top-[90%] left-8 flex items-center md:hidden gap-x-1">
+          <div className="absolute top-[65%] left-8 flex items-center md:hidden gap-x-1">
             <h2>Swipe</h2>
             <img src="/nav/ArrowRight.png" 
             alt="right arrow"
