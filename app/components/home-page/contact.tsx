@@ -1,6 +1,6 @@
 const Contact = () => {
     return (
-        <footer id="contact" className="text-white mt-12 md:mt-28 bg-green flex justify-end w-full md:w-screen px-[10%] pt-36 pb-16 items-center">
+        <footer id="contact" className="text-white mt-16 md:mt-28 bg-green flex justify-end w-full md:w-screen px-[10%] pt-8 pb-8 md:pt-36 md:pb-16 items-center">
             <ul className="flex flex-row no-underline gap-5">
                 <li>
                     <a href="mailto:acwng2@gmail.com"

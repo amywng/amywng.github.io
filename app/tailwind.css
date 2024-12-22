@@ -8,10 +8,10 @@
     font-family: "Outfit", sans-serif
   }
   body {
-    @apply bg-white dark:bg-gray-950;
+    @apply bg-white;
 
     @media (prefers-color-scheme: dark) {
-      color-scheme: dark;
+      color-scheme: light;
     }
   }
   .gallery::-webkit-scrollbar {

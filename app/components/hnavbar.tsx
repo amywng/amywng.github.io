@@ -27,18 +27,18 @@ export default function HNavbar(): React.ReactElement {
         <div className="absolute md:static flex flex-col md:flex-row gap-2 md:gap-[47px]
         top-7 right-4 overflow-hidden md:overflow-auto">
             {[
-            { name: "About", href: "#about" },
-            { name: "Experience", href: "#experience" },
-            { name: "Projects", href: "#projects" },
-            { name: "Contact", href: "#contact" },
+            { name: "About", href: "/#about" },
+            { name: "Experience", href: "/#experience" },
+            { name: "Projects", href: "/#projects" },
+            { name: "Contact", href: "/#contact" },
             ].map((link) => (
-            <a
+            <Link
                 key={link.name}
-                href={link.href}
+                to={link.href}
                 className={`md:text-2xl text-purple hover:text-dark_purple`}
             >
                 {link.name}
-            </a>
+            </Link>
             ))}
             <Link
             className={`md:text-2xl text-purple hover:text-dark_purple`}
